@@ -155,7 +155,7 @@ Actual results may depend on your environment, API credentials, and database con
 
 ## 👨‍💻 Author
 
-**Shaurya Vinjula**
+**Shaurya Binjola**
 
 Computer Science & Engineering Student
 
